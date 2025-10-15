@@ -11,8 +11,8 @@
     {
       "name": "cc-track",
       "source": {
-        "source": "github",
-        "repo": "cahaseler/cc-track"
+        "source": "url",
+        "url": "https://github.com/cahaseler/cc-track.git"
       },
       "description": "Task Review And Context Keeper: Keep your vibe coding on track",
       "version": "3.0.0",
