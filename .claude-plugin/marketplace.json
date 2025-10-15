@@ -1,8 +1,7 @@
 {
   "name": "cc-track-marketplace",
   "owner": {
-    "name": "Craig Haseler",
-    "email": "craig@haseler.com"
+    "name": "Craig Haseler"
   },
   "metadata": {
     "description": "Claude Code plugin marketplace for cc-track",
