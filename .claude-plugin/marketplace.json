@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    {
+      "name": "cc-track",
+      "repository": "https://github.com/cahaseler/cc-track.git",
+      "description": "Task tracking and context management system for Claude Code",
+      "version": "3.0.0"
+    }
+  ]
+}
