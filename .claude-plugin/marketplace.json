@@ -1,10 +1,31 @@
 {
+  "name": "cc-track-marketplace",
+  "owner": {
+    "name": "Craig Haseler",
+    "email": "craig@haseler.com"
+  },
+  "metadata": {
+    "description": "Claude Code plugin marketplace for cc-track",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
       "name": "cc-track",
-      "repository": "https://github.com/cahaseler/cc-track.git",
-      "description": "Task tracking and context management system for Claude Code",
-      "version": "3.0.0"
+      "source": "https://github.com/cahaseler/cc-track.git",
+      "description": "Task Review And Context Keeper: Keep your vibe coding on track",
+      "version": "3.0.0",
+      "author": {
+        "name": "Craig Haseler",
+        "url": "https://github.com/cahaseler/cc-track"
+      },
+      "keywords": [
+        "claude-code",
+        "task-tracking",
+        "context-management",
+        "workflow",
+        "productivity"
+      ],
+      "strict": false
     }
   ]
 }
