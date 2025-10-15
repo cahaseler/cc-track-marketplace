@@ -10,7 +10,10 @@
   "plugins": [
     {
       "name": "cc-track",
-      "source": "https://github.com/cahaseler/cc-track.git",
+      "source": {
+        "source": "github",
+        "repo": "cahaseler/cc-track"
+      },
       "description": "Task Review And Context Keeper: Keep your vibe coding on track",
       "version": "3.0.0",
       "author": {
@@ -23,8 +26,7 @@
         "context-management",
         "workflow",
         "productivity"
-      ],
-      "strict": false
+      ]
     }
   ]
 }
