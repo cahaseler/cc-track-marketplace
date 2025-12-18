@@ -27,6 +27,27 @@
         "workflow",
         "productivity"
       ]
+    },
+    {
+      "name": "episodic-memory",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/cahaseler/episodic-memory.git"
+      },
+      "description": "Semantic search for Claude Code conversations. Remember past discussions, decisions, and patterns across sessions. Bun-compiled fork for Node version independence.",
+      "version": "1.0.16",
+      "author": {
+        "name": "Craig Haseler",
+        "url": "https://github.com/cahaseler/episodic-memory"
+      },
+      "keywords": [
+        "claude-code",
+        "memory",
+        "search",
+        "conversations",
+        "semantic-search",
+        "episodic"
+      ]
     }
   ]
 }
